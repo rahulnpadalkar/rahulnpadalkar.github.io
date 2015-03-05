@@ -2,5 +2,6 @@ body
 {
    background-image: url("http://i.imgur.com/GJgDUAdh.jpg");
    background-repeat:no-repeat;
-   width:926px;
+   width:auto;
+   height:auto;
 }
