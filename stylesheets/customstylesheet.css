@@ -8,11 +8,20 @@
    margin-top:-22px;
 }*/
 
-body
+/*body
 {
    background-image: url("http://i.imgur.com/GJgDUAd.jpg");
    background-repeat:no-repeat;
    background-size:cover;
+}*/
+
+
+.heeader
+{
+   background-color:#F44336;
+   margin-left:-8px;
+   margin-right:-8px;
+   margin-top:-22px;
 }
 img.heeader
 {
