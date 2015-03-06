@@ -33,3 +33,18 @@ body
    padding:10px;
 }
 
+.navigation
+{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.navigation
+{
+   float:right;
+   display:block;
+   width:60px;
+   text-transform:uppercase;
+}
+
