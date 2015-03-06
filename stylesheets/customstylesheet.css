@@ -14,3 +14,8 @@ body
    background-repeat:no-repeat;
    background-size:cover;
 }
+img.heeader
+{
+   width:100px;
+   height:100px;
+}
