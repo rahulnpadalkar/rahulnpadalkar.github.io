@@ -33,7 +33,7 @@ body
    padding:10px;
 }
 
-.navigation
+ul.navigation
 {
    list-style-type: none;
     margin: 0;
