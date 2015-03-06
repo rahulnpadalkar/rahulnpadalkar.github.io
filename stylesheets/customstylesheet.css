@@ -27,7 +27,13 @@ body
    height:150px;
 }
 
-img.heeader
+logo
+{
+   position:relative;
+   left:100px;
+}
+
+img.logo
 {
   left:10px;
   right:10px;
