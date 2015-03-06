@@ -29,12 +29,7 @@ body
 
 logo
 {
-   position:relative;
-   left:100px;
+   margin:0;
+   padding:10px;
 }
 
-img.logo
-{
-  left:10px;
-  right:10px;
-}
