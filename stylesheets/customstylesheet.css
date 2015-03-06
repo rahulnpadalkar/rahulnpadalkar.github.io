@@ -10,12 +10,13 @@
 
 body
 {
-   background-image: url("http://i.imgur.com/DdA3A00.jpg");
+   background-image: url("http://i.imgur.com/GJgDUAd.jpg");
    background-repeat:no-repeat;
    background-size:cover;
 }
 img.heeader
 {
-   width:100px;
-   height:100px;
+   margin-left:0px;
+   margin-right:0px;
+   display:block;
 }
