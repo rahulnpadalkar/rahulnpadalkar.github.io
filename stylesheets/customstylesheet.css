@@ -14,6 +14,23 @@
    background-repeat:no-repeat;
    background-size:cover;
 }*/
+/* CSS Document */
+/*.heeader
+{
+   background-image: url("http://i.imgur.com/DdA3A00.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+   margin-left:-8px;
+   margin-right:-8px;
+   margin-top:-22px;
+}*/
+
+/*body
+{
+   background-image: url("http://i.imgur.com/GJgDUAd.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+}*/
 
 body
 {
@@ -24,7 +41,7 @@ body
 .heeader
 {
    background-color:#FF5252;
-   height:125px;
+   height:115px;
 }
 
 .logo
@@ -33,18 +50,58 @@ body
    padding:10px;
 }
 
-ul.navigation
+.navigation{
+	position:relative;
+	width:100%;
+	margin-top:-60px;
+	left:-120px;
+	
+}
+
+.navigation ul
 {
    list-style-type: none;
+   overflow:hidden;
+   text-align:center;
     margin: 0;
     padding: 0;
 }
 
-li.navigation
+.navigation li
 {
    float:right;
-   display:block;
-   width:60px;
+   
    text-transform:uppercase;
 }
+
+.navigation a
+{
+	display:inline;
+	width:200px;
+	padding:20px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#FFFFFF;
+	font-family:"Roboto Light";
+	transition-property:color;
+	transition-duration:0.5s;
+	transition-timing-function:ease;
+}
+
+a:hover
+{
+	color:#575757;
+	
+}
+
+/*.titl
+{
+	margin-top:-70px;
+	color:#FFFFFF;
+	margin-left:150px;
+	font-size:26px;
+}*/
+
+
+
 
