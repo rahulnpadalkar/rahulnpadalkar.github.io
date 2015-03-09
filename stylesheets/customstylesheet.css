@@ -30,7 +30,7 @@
    background-image: url("http://i.imgur.com/GJgDUAd.jpg");
    background-repeat:no-repeat;
    background-size:cover;
-}*/
+}
 
 body
 {
@@ -94,6 +94,217 @@ a:hover
 	
 }
 
+/*.titl
+{
+	margin-top:-70px;
+	color:#FFFFFF;
+	margin-left:150px;
+	font-size:26px;
+}*/
+
+
+@charset "utf-8";
+/* CSS Document */
+/*.heeader
+{
+   background-image: url("http://i.imgur.com/DdA3A00.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+   margin-left:-8px;
+   margin-right:-8px;
+   margin-top:-22px;
+}*/
+
+/*body
+{
+   background-image: url("http://i.imgur.com/GJgDUAd.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+}*/
+*/
+body
+{
+   margin:0px;
+   padding:0px;
+}
+.heeader
+{
+   background-color:#FF5252;
+   height:115px;
+}
+
+.logo
+{
+   width:65px;
+   margin:0;
+   padding:10px;
+}
+
+.navigation{
+	position:relative;
+	height:35px;
+	width:500px;
+	margin-top:-70px;
+	left:290px;
+	
+	
+}
+
+.navigation ul
+{
+   list-style-type: none;
+   overflow:hidden;
+   text-align:center;
+   position:relative;
+    margin: 0;
+    padding: 0;
+	 left:-205px;
+	 top:-3px;
+}
+
+.navigation li
+{
+   float:right;
+   text-transform:uppercase;
+
+}
+
+.navigation a
+{
+	position:relative;
+	display:inline-block;
+	width:90px;
+	padding:10px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#FFFFFF;
+	font-family:"Roboto Light";
+	-webkit-transition-property:font-size;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:ease-in;
+	-webkit-transition-property:color;
+	-webkit-transition-duration:0.5s;
+	-webkit-transition-timing-function:ease;
+	-moz-transition-property:color;
+	-moz-transition-duration:0.5s;
+	-moz-transition-timing-function:ease;
+	-o-transition-property:color;
+	-o-transition-duration:0.5s;
+	-o-transition-timing-function:ease;
+	transition-property:color;
+	transition-duration:0.5s;
+	transition-timing-function:ease;
+}
+
+.navigation a:hover 
+{
+	color:#575757;
+	font-size:18px;
+	border-bottom:2px solid #575757;
+}
+
+.navigation a:active
+{
+	color:#575757;
+	font-size:18px;
+	border-bottom:2px solid #575757;
+}
+
+body
+{
+	background-image:url(../6e609595.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.name
+{
+	position:relative;
+	top:150px;
+	
+}
+
+.name h1
+{
+	font-family:"Roboto Thin";
+	text-align:center;
+	color:#FFFFFF;
+	font-size:50px;
+}
+
+.name h5
+{
+	font-family:"Roboto Thin";
+	text-align:center;
+	color:#FFFFFF;
+	font-size:24px;
+}
+
+.name h1
+{
+	position:relative;
+	-webkit-animation-name: trans;
+	-webkit-animation-duration:1s;
+	-webkit-animation-timing-function:linear;
+}
+
+.name h5
+{
+	position:relative;
+	-webkit-animation-name:opp;
+	-webkit-animation-duration:1.5s;
+	-webkit-animation-timing-function:linear;
+}
+
+/*@-webkit-keyframes trans {
+    0%   {opacity:0;top:40px;}
+    25%  {opacity: 0.25;top:30px;}
+    50%  {opacity: 0.50; top:20px;}
+    75%  {opacity: 0.75; top:10px;}
+    100% {opacity: 1;top:0px;}
+}*/
+
+/* Standard syntax */
+/*@keyframes trans {
+    0%   {opacity:0;top:40px;}
+    25%  {opacity: 0.25;top:30px;}
+    50%  {opacity: 0.50; top:20px;}
+    75%  {opacity: 0.75; top:10px;}
+    100% {opacity: 1;top:0px;}
+}*/
+
+@-webkit-keyframes opp {
+   0%   {opacity:0;}
+    25%  {opacity: 0.25;}
+    50%  {opacity: 0.50;}
+    75%  {opacity: 0.75;}
+    100% {opacity: 1;}
+}
+
+/* Standard syntax */
+@keyframes opp {
+    0%   {opacity:0;}
+    25%  {opacity: 0.25;}
+    50%  {opacity: 0.50;}
+    75%  {opacity: 0.75;}
+    100% {opacity: 1;}
+}
+
+@-webkit-keyframes trans{
+   0%   {opacity:0;}
+    25%  {opacity: 0.25;}
+    50%  {opacity: 0.50;}
+    75%  {opacity: 0.75;}
+    100% {opacity: 1;}
+}
+
+@keyframes trans {
+    0%   {opacity:0;}
+    25%  {opacity: 0.25;}
+    50%  {opacity: 0.50;}
+    75%  {opacity: 0.75;}
+    100% {opacity: 1;}
+}
 /*.titl
 {
 	margin-top:-70px;
