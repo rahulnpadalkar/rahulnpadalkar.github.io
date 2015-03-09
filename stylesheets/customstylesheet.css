@@ -1,108 +1,3 @@
-/*.heeader
-{
-   background-image: url("http://i.imgur.com/DdA3A00.jpg");
-   background-repeat:no-repeat;
-   background-size:cover;
-   margin-left:-8px;
-   margin-right:-8px;
-   margin-top:-22px;
-}*/
-
-/*body
-{
-   background-image: url("http://i.imgur.com/GJgDUAd.jpg");
-   background-repeat:no-repeat;
-   background-size:cover;
-}*/
-/* CSS Document */
-/*.heeader
-{
-   background-image: url("http://i.imgur.com/DdA3A00.jpg");
-   background-repeat:no-repeat;
-   background-size:cover;
-   margin-left:-8px;
-   margin-right:-8px;
-   margin-top:-22px;
-}*/
-
-/*body
-{
-   background-image: url("http://i.imgur.com/GJgDUAd.jpg");
-   background-repeat:no-repeat;
-   background-size:cover;
-}
-
-body
-{
-   margin:0px;
-   padding:0px;
-}
-
-.heeader
-{
-   background-color:#FF5252;
-   height:115px;
-}
-
-.logo
-{
-   margin:0;
-   padding:10px;
-}
-
-.navigation{
-	position:relative;
-	width:100%;
-	margin-top:-60px;
-	left:-120px;
-	
-}
-
-.navigation ul
-{
-   list-style-type: none;
-   overflow:hidden;
-   text-align:center;
-    margin: 0;
-    padding: 0;
-}
-
-.navigation li
-{
-   float:right;
-   
-   text-transform:uppercase;
-}
-
-.navigation a
-{
-	display:inline;
-	width:200px;
-	padding:20px;
-	text-decoration:none;
-	font-weight:bold;
-	color:#FFFFFF;
-	font-family: 'Roboto', sans-serif;
-	transition-property:color;
-	transition-duration:0.5s;
-	transition-timing-function:ease;
-}
-
-a:hover
-{
-	color:#575757;
-	
-}
-
-/*.titl
-{
-	margin-top:-70px;
-	color:#FFFFFF;
-	margin-left:150px;
-	font-size:26px;
-}*/
-
-
 @charset "utf-8";
 /* CSS Document */
 /*.heeader
@@ -121,7 +16,7 @@ a:hover
    background-repeat:no-repeat;
    background-size:cover;
 }*/
-*/
+
 body
 {
    margin:0px;
@@ -212,7 +107,7 @@ body
 
 body
 {
-	background-image:url(../6e609595.jpg);
+	background-image:url(http://i.imgur.com/OWComvC.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 }
@@ -312,7 +207,5 @@ body
 	margin-left:150px;
 	font-size:26px;
 }*/
-
-
 
 
