@@ -1,0 +1,37 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: TabsOverSpaces
+theme: PaperMod
+
+  
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: TabsOverSpaces
+  description: "TabsOverSpaces"
+  author: Me
+  ShowReadingTime: true
+  hideSummary: true
+  ShowCodeCopyButtons: false
+  showtoc: false
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    title: "Hello, I am Rahul. I type words for a living."
+    content: "IndieHacker, Developer, Youtuber, Noob Memer. Work @tarkalabs"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/rahulnpadalkar"
+    - name: github
+      url: "https://github.com/rahulnpadalkar"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/rahul-padalkar-b19586106/"
+
