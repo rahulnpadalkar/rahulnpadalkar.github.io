@@ -24,9 +24,13 @@ params:
   showtoc: false
   ShowCodeCopyButtons: true
   homeInfoParams:
-    title: "Hello, I am Rahul. I type words for a living."
+    title: "👋 Hello, I am Rahul Padalkar."
     content: "IndieHacker, Developer, Youtuber, Noob Memer. Work @tarkalabs"
-
+  
+  googleAnalytics: "G-9BT8500EN5"
+  analytics:
+    google:
+      SiteVerificationTag: "G-9BT8500EN5"
   socialIcons:
     - name: twitter
       url: "https://twitter.com/rahulnpadalkar"
