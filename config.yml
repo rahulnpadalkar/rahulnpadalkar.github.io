@@ -27,7 +27,7 @@ params:
     title: "👋 Hello, I am Rahul Padalkar."
     content: "IndieHacker, Developer, Youtuber, Noob Memer. Work @tarkalabs"
   
-  googleAnalytics: "G-9BT8500EN5"
+  googleAnalytics: G-9BT8500EN5
   analytics:
     google:
       SiteVerificationTag: "G-9BT8500EN5"
